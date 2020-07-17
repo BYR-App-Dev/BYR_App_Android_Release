@@ -1,5 +1,5 @@
 {
-  "latest_version": "2.0.4 beta 3",
-  "download_link": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/2.0.4b3/release.apk",
-  "update_content": "2.0.4b3:\n- 内部链接跳转\n- 外部链接启动\n- 网页链接分享\n\n2.0.4b2:\n- 优化emoji过多的情况\n\n2.0.4b:\n- Android版支持app内更新版本\n- 增加对Emoji的支持\n- 增加帖子搜索功能\n- 增加查看用户资料页面\n- 增加高级编辑及预览功能\n\n2.0.3b:\n- 长按修改、删除文章\n- 长按复制内容\n- 发表帖子可添加表情和图片\n- 匿名版支持匿名发帖\n- 解决卡顿问题\n\n2.0.2b:\n- 优化输入框\n\n2.0.1b:\n- 添加收藏夹\n- 添加表情包\n\n2.0.0b:\n- 使用Flutter重构"
+  "latest_version": "2.0.4 beta 4",
+  "download_link": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/2.0.4b4/release.apk",
+  "update_content": "2.0.4b4:\n- 点踩功能\n\n2.0.4b3:\n- 内部链接跳转\n- 外部链接启动\n- 网页链接分享\n\n2.0.4b2:\n- 优化emoji过多的情况\n\n2.0.4b:\n- Android版支持app内更新版本\n- 增加对Emoji的支持\n- 增加帖子搜索功能\n- 增加查看用户资料页面\n- 增加高级编辑及预览功能\n\n2.0.3b:\n- 长按修改、删除文章\n- 长按复制内容\n- 发表帖子可添加表情和图片\n- 匿名版支持匿名发帖\n- 解决卡顿问题\n\n2.0.2b:\n- 优化输入框\n\n2.0.1b:\n- 添加收藏夹\n- 添加表情包\n\n2.0.0b:\n- 使用Flutter重构"
 }
