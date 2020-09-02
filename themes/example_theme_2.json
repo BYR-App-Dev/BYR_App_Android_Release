@@ -5,5 +5,10 @@
     "isThemeDarkStyle": false,
     "statusBarColor": "ff000000",
     "systemBottomNavigationBarColor": "ffffffff",
-    "bottomBarBackgroundColor": "ffff0000"
+    "bottomBarBackgroundColor": "fffdb827",
+    "bottomBarPostIconBackgroundColor": "ff542583",
+    "someKeyUseless": "someValueUseless",
+    "tabPageTopBarSliderColor": "ffa50044",
+    "tabPageTopBarTextSelectedColor": "ff004d98",
+    "tabPageTopBarTextUnselectedColor": "ff004daa"
 }
