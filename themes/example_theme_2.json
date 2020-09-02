@@ -1,0 +1,9 @@
+{
+    "themeName": "Exampe Theme 2",
+    "themeDisplayName": "Example Theme 2",
+    "isBoardDefaultColorsUsed": true,
+    "isThemeDarkStyle": false,
+    "statusBarColor": "ff000000",
+    "systemBottomNavigationBarColor": "ffffffff",
+    "bottomBarBackgroundColor": "ffff0000"
+}
