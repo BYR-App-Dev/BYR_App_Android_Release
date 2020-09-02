@@ -3,7 +3,7 @@
     "themeDisplayName": "Example Theme 2",
     "isBoardDefaultColorsUsed": true,
     "isThemeDarkStyle": false,
-    "statusBarColor": "ff000000",
+    "statusBarColor": "00000000",
     "systemBottomNavigationBarColor": "ffffffff",
     "bottomBarBackgroundColor": "fffdb827",
     "bottomBarPostIconBackgroundColor": "ff542583",
