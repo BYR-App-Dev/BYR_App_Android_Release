@@ -1,0 +1,14 @@
+{
+    "themeName": "Exampe Theme 2",
+    "themeDisplayName": "Example Theme 2",
+    "isBoardDefaultColorsUsed": true,
+    "isThemeDarkStyle": false,
+    "statusBarColor": "00000000",
+    "systemBottomNavigationBarColor": "ffffffff",
+    "bottomBarBackgroundColor": "fffdb827",
+    "bottomBarPostIconBackgroundColor": "ff542583",
+    "someKeyUseless": "someValueUseless",
+    "tabPageTopBarSliderColor": "ffa50044",
+    "tabPageTopBarTextSelectedColor": "ff004d98",
+    "tabPageTopBarTextUnselectedColor": "ff004daa"
+}
