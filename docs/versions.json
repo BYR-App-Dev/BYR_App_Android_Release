@@ -1,6 +1,11 @@
 {
     "versions": [
         {
+            "version": "3.0 dev 1",
+            "changelog": "就做了一点微小的工作",
+            "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/3.0d1/release.apk"
+        },
+        {
             "version": "3.0",
             "changelog": "可截图分享帖子(在帖子页面右上角选项);搜索用户功能(在 我 页面);可调整的AppBar(在 设置 页面);可降级回旧版本(在 设置 页面);可参与公测(在 设置 页面);重构代码改善客户端稳定性和可维护性",
             "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/3.0/release.apk"
