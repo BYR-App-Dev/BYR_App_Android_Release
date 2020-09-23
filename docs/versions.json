@@ -1,6 +1,11 @@
 {
     "versions": [
         {
+            "version": "3.0 dev 3",
+            "changelog": "修bug",
+            "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/3.0d3/release.apk"
+        },
+        {
             "version": "3.0 dev 2",
             "changelog": "修bug",
             "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/3.0d2/release.apk"
