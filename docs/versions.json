@@ -1,14 +1,9 @@
 {
     "versions": [
         {
-            "version": "3.0.1 dev 1",
-            "changelog": "测试小程序功能(发现页面), 如果闪退请反馈手机型号、系统版本、复现方式",
-            "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/3.0.1d1/release.apk"
-        },
-        {
-            "version": "3.0.1",
-            "changelog": "修复bug;界面调整",
-            "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/3.0.1/release.apk"
+            "version": "3.0.0",
+            "changelog": "开源;之后将可通过split-abi进行更快的更新;修复bug",
+            "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/3.0.0/release.apk"
         },
         {
             "version": "3.0 dev 3",
