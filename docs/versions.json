@@ -1,6 +1,11 @@
 {
     "versions": [
         {
+            "version": "3.1.2",
+            "changelog": "浏览历史记录;支持从全民K歌导入音频",
+            "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/3.1.2/release.apk"
+        },
+        {
             "version": "3.1.1",
             "changelog": "修bug",
             "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/3.1.1/release.apk"
