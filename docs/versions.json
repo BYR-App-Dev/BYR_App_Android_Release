@@ -2,7 +2,7 @@
     "versions": [
         {
             "version": "3.1.3",
-            "changelog": "悄悄话;类QQ的滑动返回;单击底部tab和帖子双击顶部标题返回顶部并刷新;需要有秒数才能看的帖子可以看秒数了",
+            "changelog": "类QQ的滑动返回;单击底部tab和帖子双击顶部标题返回顶部并刷新;需要有秒数才能看的帖子可以看秒数了",
             "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/3.1.3/release.apk"
         },
         {
