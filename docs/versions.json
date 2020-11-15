@@ -1,6 +1,11 @@
 {
     "versions": [
         {
+            "version": "3.2.1",
+            "changelog": "修bug",
+            "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/3.2.1/release.apk"
+        },
+        {
             "version": "3.2",
             "changelog": "修bug;视频播放器;小程序稳定版上线(发现页面最右侧);abi选项(如果之前出现无法更新的情况，可以在设置页面关闭abi)",
             "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/3.2/release.apk"
