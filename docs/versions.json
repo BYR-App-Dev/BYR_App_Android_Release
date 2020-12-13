@@ -1,6 +1,11 @@
 {
     "versions": [
         {
+            "version": "3.2.3",
+            "changelog": "剪贴板中复制的网址自动判断跳转;设置中可清空缓存;用户体验改进",
+            "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/3.2.3/release.apk"
+        },
+        {
             "version": "3.2.2",
             "changelog": "增加国内下载节点，海外用户建议打开设置中的[海外用户]选项;首页的前三个页面也可以移动顺序了;小程序放到了发现页的第一个页面",
             "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/3.2.2/release.apk"
