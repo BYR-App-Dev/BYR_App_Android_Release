@@ -1,6 +1,11 @@
 {
     "versions": [
         {
+            "version": "3.3.0",
+            "changelog": "视频播放改进;用户体验改进",
+            "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/3.3.0/release.apk"
+        },
+        {
             "version": "3.2.3",
             "changelog": "剪贴板中复制的网址自动判断跳转;设置中可清空缓存;用户体验改进",
             "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/3.2.3/release.apk"
