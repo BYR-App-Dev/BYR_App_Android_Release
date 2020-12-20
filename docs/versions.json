@@ -1,6 +1,11 @@
 {
     "versions": [
         {
+            "version": "3.3.0b",
+            "changelog": "修复夜间模式下版面显示问题",
+            "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/3.3.0b/release.apk"
+        },
+        {
             "version": "3.3.0",
             "changelog": "视频播放改进;用户体验改进",
             "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/3.3.0/release.apk"
