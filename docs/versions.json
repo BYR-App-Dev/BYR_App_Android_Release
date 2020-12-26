@@ -1,6 +1,11 @@
 {
     "versions": [
         {
+            "version": "3.3.0f",
+            "changelog": "移除小程序;页面自动剔除重复的行",
+            "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/3.3.0f/release.apk"
+        },
+        {
             "version": "3.3.0b",
             "changelog": "修复夜间模式下版面显示问题",
             "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/3.3.0b/release.apk"
