@@ -1,6 +1,11 @@
 {
     "versions": [
         {
+            "version": "28Dec2020",
+            "changelog": "删除一个不存在的按钮",
+            "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/28Dec2020/release.apk"
+        },
+        {
             "version": "3.3.0f",
             "changelog": "移除小程序;页面自动剔除重复的行",
             "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/3.3.0f/release.apk"
