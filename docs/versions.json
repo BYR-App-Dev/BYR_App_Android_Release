@@ -1,6 +1,11 @@
 {
     "versions": [
         {
+            "version": "20Feb2021",
+            "changelog": "消息黑名单",
+            "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/20Feb2021/release.apk"
+        },
+        {
             "version": "10Feb2021",
             "changelog": "支持黑名单导出到剪贴板，以便分享交流各自的黑名单",
             "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/10Feb2021/release.apk"
