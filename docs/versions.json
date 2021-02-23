@@ -1,6 +1,11 @@
 {
     "versions": [
         {
+            "version": "24Feb2021",
+            "changelog": "bug修复",
+            "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/24Feb2021/release.apk"
+        },
+        {
             "version": "20Feb2021",
             "changelog": "消息黑名单",
             "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/20Feb2021/release.apk"
