@@ -1,6 +1,11 @@
 {
     "versions": [
         {
+            "version": "22April2021",
+            "changelog": "修复无法登出的bug，重写引用文字计算方式",
+            "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/22April2021/release.apk"
+        },
+        {
             "version": "24Feb2021",
             "changelog": "bug修复",
             "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/24Feb2021/release.apk"
