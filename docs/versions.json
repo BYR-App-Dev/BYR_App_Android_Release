@@ -1,6 +1,11 @@
 {
     "versions": [
         {
+            "version": "v3.3.2 20210510",
+            "changelog": "修复bug",
+            "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/v3.3.2-20210510/release.apk"
+        },
+        {
             "version": "v3.3.1 20210501",
             "changelog": "帖子内容可以选取，增加国内镜像更新",
             "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/v3.3.1-20210501/release.apk"
