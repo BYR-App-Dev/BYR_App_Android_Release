@@ -1,9 +1,9 @@
 {
     "versions": [
         {
-            "version": "v3.3.2 20210510",
-            "changelog": "修复bug",
-            "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/v3.3.2-20210510/release.apk"
+            "version": "v3.3.2 20210511",
+            "changelog": "修复帖子回复指向bug， 账号切换bug可使用临时解决方案在设置最下方登出全部账号",
+            "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/v3.3.2-20210511/release.apk"
         },
         {
             "version": "v3.3.1 20210501",
