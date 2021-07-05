@@ -1,6 +1,11 @@
 {
     "versions": [
         {
+            "version": "v3.3.3 20210705",
+            "changelog": "升级Flutter引擎，修复祖传点赞计数bug",
+            "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/v3.3.3-20210705/release.apk"
+        },
+        {
             "version": "v3.3.2 20210511",
             "changelog": "修复帖子回复指向bug， 账号切换bug可使用临时解决方案在设置最下方登出全部账号",
             "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/v3.3.2-20210511/release.apk"
