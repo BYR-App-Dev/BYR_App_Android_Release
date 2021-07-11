@@ -1,6 +1,11 @@
 {
     "versions": [
         {
+            "version": "v3.3.4 20210711",
+            "changelog": "载入页面跳过按钮",
+            "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/v3.3.4-20210711/release.apk"
+        },
+        {
             "version": "v3.3.3 20210705",
             "changelog": "升级Flutter引擎，修复祖传点赞计数bug",
             "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/v3.3.3-20210705/release.apk"
