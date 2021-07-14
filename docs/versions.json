@@ -1,6 +1,11 @@
 {
     "versions": [
         {
+            "version": "v3.3.5 20210715",
+            "changelog": "可在设置页将主页面设为精简版",
+            "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/v3.3.5-20210715/release.apk"
+        },
+        {
             "version": "v3.3.4 20210711",
             "changelog": "载入页面跳过按钮",
             "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/v3.3.4-20210711/release.apk"
