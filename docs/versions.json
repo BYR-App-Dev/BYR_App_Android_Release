@@ -1,6 +1,11 @@
 {
     "versions": [
         {
+            "version": "v3.3.6 20210803",
+            "changelog": "截图bug修复;默认禁用剪切板扫描跳转，可在设置中开启",
+            "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/v3.3.6-20210803/release.apk"
+        },
+        {
             "version": "v3.3.5 20210715",
             "changelog": "可在设置页将主页面设为精简版",
             "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/v3.3.5-20210715/release.apk"
@@ -12,22 +17,22 @@
         },
         {
             "version": "v3.3.3 20210705",
-            "changelog": "升级Flutter引擎，修复祖传点赞计数bug",
+            "changelog": "升级Flutter引擎;修复祖传点赞计数bug",
             "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/v3.3.3-20210705/release.apk"
         },
         {
             "version": "v3.3.2 20210511",
-            "changelog": "修复帖子回复指向bug， 账号切换bug可使用临时解决方案在设置最下方登出全部账号",
+            "changelog": "修复帖子回复指向bug;账号切换bug可使用临时解决方案在设置最下方登出全部账号",
             "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/v3.3.2-20210511/release.apk"
         },
         {
             "version": "v3.3.1 20210501",
-            "changelog": "帖子内容可以选取，增加国内镜像更新",
+            "changelog": "帖子内容可以选取;增加国内镜像更新",
             "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/v3.3.1-20210501/release.apk"
         },
         {
             "version": "22April2021",
-            "changelog": "修复无法登出的bug，重写引用文字计算方式",
+            "changelog": "修复无法登出的bug;重写引用文字计算方式",
             "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/v3.3.0-20210422/release.apk"
         },
         {
@@ -42,7 +47,7 @@
         },
         {
             "version": "10Feb2021",
-            "changelog": "支持黑名单导出到剪贴板，以便分享交流各自的黑名单",
+            "changelog": "支持黑名单导出到剪贴板;以便分享交流各自的黑名单",
             "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/10Feb2021/release.apk"
         },
         {
