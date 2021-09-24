@@ -1,6 +1,11 @@
 {
     "versions": [
         {
+            "version": "v3.4.0 20210924",
+            "changelog": "修复楼层和点赞显示错误",
+            "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/v3.4.0-20210924/release.apk"
+        },
+        {
             "version": "v3.3.6 20210803",
             "changelog": "截图bug修复;默认禁用剪切板扫描跳转，可在设置中开启;删除不必要的组件",
             "url": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/v3.3.6-20210803/release.apk"
