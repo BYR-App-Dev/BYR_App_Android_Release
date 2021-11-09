@@ -1,12 +1,12 @@
 {
-  "latest_version": "v3.4.0 20210924",
-  "download_link": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/v3.4.0-20210924/release.apk",
-  "download_linkarm64-v8a": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/v3.4.0-20210924/arm64-v8a-release.apk",
-  "download_linkarmeabi-v7a": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/v3.4.0-20210924/armeabi-v7a-release.apk",
-  "download_linkx86_64": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/v3.4.0-20210924/x86_64-release.apk",
-  "download_link_oversea": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/v3.4.0-20210924/release.apk",
-  "download_link_overseaarm64-v8a": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/v3.4.0-20210924/arm64-v8a-release.apk",
-  "download_link_overseaarmeabi-v7a": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/v3.4.0-20210924/armeabi-v7a-release.apk",
-  "download_link_overseax86_64": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/v3.4.0-20210924/x86_64-release.apk",
-  "update_content": "v3.4.0 20210924:\n修复楼层和点赞显示错误"
+  "latest_version": "v3.5.0 20211109",
+  "download_link": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/v3.5.0-20211109/release.apk",
+  "download_linkarm64-v8a": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/v3.5.0-20211109/arm64-v8a-release.apk",
+  "download_linkarmeabi-v7a": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/v3.5.0-20211109/armeabi-v7a-release.apk",
+  "download_linkx86_64": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/v3.5.0-20211109/x86_64-release.apk",
+  "download_link_oversea": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/v3.5.0-20211109/release.apk",
+  "download_link_overseaarm64-v8a": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/v3.5.0-20211109/arm64-v8a-release.apk",
+  "download_link_overseaarmeabi-v7a": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/v3.5.0-20211109/armeabi-v7a-release.apk",
+  "download_link_overseax86_64": "https://github.com/BYR-App-Dev/BYR_App_Android_Release/releases/download/v3.5.0-20211109/x86_64-release.apk",
+  "update_content": "v3.5.0 20211109:\n修复附件显示"
 }
